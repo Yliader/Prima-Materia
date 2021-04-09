@@ -1,2 +1,2 @@
 # Prima-Materia Backgrounds
-Every backgrounds used to make the game
+Alle the backgrounds used to make the game
