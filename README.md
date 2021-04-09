@@ -1,2 +1,2 @@
-# Prima-Materia
-Folder for every thing about the GB game Prima Materia
+# Prima-Materia Backgrounds
+Every backgrounds used to make the game
