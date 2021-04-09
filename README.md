@@ -1,2 +1,2 @@
-# Prima-Materia
-Folder for every thing about the GB game Prima Materia
+# Prima-Materia Effects
+All the effects used in the game, steam, drop, smoke etc
