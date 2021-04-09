@@ -1,2 +1,2 @@
 # Prima-Materia
-Folder for every thing about the GB game Prima Materia, classed by assets
+All the animated items used in the game.
